@@ -1,9 +1,5 @@
-SET SERVEROUTPUT ON;
-SET FEEDBACK ON;
-PROMPT ============================================
-PROMPT VERIFYING TABLE STRUCTURES
-PROMPT ============================================
 
+PROMPT VERIFYING TABLE STRUCTURES
 DESC Patient;
 DESC Doctor;
 DESC Daily_Report;
