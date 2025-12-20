@@ -556,3 +556,33 @@ BEGIN
                 WHEN 1 THEN 'Medication Reminder'
                 ELSE 'General Alert'
             END,
+
+    CASE MOD(i, 6)
+                WHEN 0 THEN 'Reminder: Appointment tomorrow at 10:00 AM with Dr. Maniraguha'
+                WHEN 1 THEN 'Time to take your medication: Paracetamol 500mg'
+                WHEN 2 THEN 'Your lab test results are now available in the patient portal'
+                WHEN 3 THEN 'Health Tip: Drink at least 8 glasses of water daily'
+                WHEN 4 THEN 'Alert: Your prescription is ready for pickup at pharmacy'
+                ELSE 'New health article: Managing hypertension through diet'
+            END,
+            
+            -- Delivery method
+            CASE MOD(i, 4)
+                WHEN 0 THEN 'SMS'
+                WHEN 1 THEN 'Email'
+                WHEN 2 THEN 'App Notification'
+                ELSE 'Phone Call'
+            END,
+            
+            -- Status
+            CASE MOD(i, 5)
+                WHEN 0 THEN 'PENDING'
+                WHEN 1 THEN 'SENT'
+                WHEN 2 THEN 'DELIVERED'
+                WHEN 3 THEN 'READ'
+                ELSE 'FAILED'
+            END
+        );
+    END LOOP;
+    COMMIT
+END;
