@@ -1,14 +1,7 @@
 # MBERA MUGANGA HEALTHCARE SYSTEM
 ## Normalization Analysis & Design Assumptions
-
-**Student:** [Your Name]  
-**Student ID:** [Your ID]  
-**Group:** [Your Group]  
+  
 **Project:** Mbera Muganga Healthcare System  
-**Institution:** Adventist University of Central Africa (AUCA)  
-**Course:** Database Development with PL/SQL (INSY 8311)  
-**Phase:** III - Logical Model Design  
-**Date:** December 2025
 
 ---
 
