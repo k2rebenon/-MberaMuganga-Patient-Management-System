@@ -54,6 +54,7 @@
 ---
 
 ## 3. BUSINESS PROCESS FLOW (BPMN SWIMLANES)
+<img width="2062" height="1299" alt="phase2 bpmn (1)" src="https://github.com/user-attachments/assets/f3b6bc4c-ad14-4362-9695-10f3926a5ef1" />
 
 ### 3.1 Registration Process
 
