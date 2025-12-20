@@ -1,13 +1,6 @@
 # MBERA MUGANGA HEALTHCARE SYSTEM
 ## PHASE II: Business Process Modeling (BPMN)
 
-**Student:** [Your Name]  
-**Student ID:** [Your ID]  
-**Group:** [Your Group]  
-**Institution:** Adventist University of Central Africa (AUCA)  
-**Date:** December 2025
-
----
 
 ## 1. BUSINESS PROCESS SCOPE
 
@@ -353,20 +346,4 @@ The Mbera Muganga business process model demonstrates a comprehensive **Manageme
 ✅ **Ensures data integrity** through validation and constraints  
 ✅ **Enables scalability** with digital-first architecture  
 
-**Next Steps:**
-- **Phase III:** Design logical data model (ER diagram, normalization)
-- **Phase IV:** Create Oracle database and configure PDB
-- **Phase V:** Implement tables and insert realistic test data
-- **Phase VI-VII:** Develop PL/SQL procedures, functions, triggers
-- **Phase VIII:** Build BI dashboards and complete documentation
 
----
-
-**Tools Used:** Mermaid (BPMN diagram), Markdown (documentation)  
-**File:** `Phase_II_Business_Process_Model.md`  
-**Date:** December 2025
-
----
-
-*Prepared for INSY 8311 - Database Development with PL/SQL*  
-*Adventist University of Central Africa (AUCA)*
