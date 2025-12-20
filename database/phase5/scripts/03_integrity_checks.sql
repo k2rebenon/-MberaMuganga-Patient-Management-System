@@ -1,5 +1,5 @@
 
--- PART 4: DATA INTEGRITY VERIFICATION
+-- DATA INTEGRITY VERIFICATION
 
 -- 1. Verify row counts (meets 100-500+ requirement)
 SELECT 'Patient' AS Table_Name, COUNT(*) AS Row_Count FROM Patient
