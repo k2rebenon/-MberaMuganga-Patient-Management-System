@@ -37,7 +37,7 @@ Patients with Diabetes and Hypertension record daily blood pressure and glucose 
 
 ## Quick Start Instructions
 1. Clone the repository:  
-   `git clone https://github.com/[your-username]/mbera_muganga_plsql_capstone`
+[   `git clone https://github.com/[your-username]/mbera_muganga_plsql_capstone`](https://github.com/k2rebenon/-MberaMuganga-Patient-Management-System.git)
 2. Connect as SYS/SYSTEM and run `database/scripts/create_pdb_and_user.sql` to create PDB `mon_29143_Benon_MberaMuganga_DB`
 3. Connect as user `benon/benon` and execute all scripts in `database/scripts/` in this order:
    - create_tables.sql
@@ -56,11 +56,12 @@ Patients with Diabetes and Hypertension record daily blood pressure and glucose 
 - **BI Bonus:** Executive, Audit, Performance & NCD Analytics dashboards (mockups + queries)
 
 ## Links to Documentation & Evidence
-- [Data Dictionary](database/documentation/data_dictionary.md)  
-- [ER Diagram](screenshots/database_objects/er_diagram.png)  
-- [Test Results & Screenshots](screenshots/test_results/) – All show project name visible  
-- [BI Requirements & Dashboards](business_intelligence/)  
-- [Final Presentation](presentation/mon_29143_Benon_MberaMuganga_Presentation.pptx)  
+- [Data Dictionary
+
+- [ER Diagram]
+- [Test Results & Screenshots]  
+- [BI Requirements & Dashboards]
+- [Final Presentation](
 
 All code is original, thoroughly tested, and production-ready. Screenshots prove execution (procedures <1s, triggers block/allow correctly, BI queries return meaningful results).
 
