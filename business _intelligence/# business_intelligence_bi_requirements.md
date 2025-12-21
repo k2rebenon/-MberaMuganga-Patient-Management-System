@@ -1,13 +1,12 @@
 \# business_intelligence/bi_requirements.md
 
-\*\*Business Intelligence Requirements\*\*
+Business Intelligence Requirements
 
-\*\*Project:\*\* MBERA MUGANGA HEALTH CARE SYSTEM (The Doctor’s Helper)
-\*\*Student:\*\* Katurebe Benon – 29143 – Monday Group
+MBERA MUGANGA HEALTH CARE SYSTEM (The Doctor’s Helper)
 
-\*\*Date:\*\* December 21, 2025
 
-\## 1. KPIs That Matter
+ December 21, 2025
+ 1. KPIs That Matter
 
 These Key Performance Indicators directly support preventive care and
 national NCD management in Rwanda.
@@ -87,18 +86,19 @@ summary \| \| Clinic Performance Report \| Weekly \| Aggregated KPIs \|
 
 \## 5. Dashboard Mockups (Implemented in dashboards.md)
 
-1\. \*\*Executive Summary Dashboard\*\* – KPI cards + trend lines
+1.Executive Summary Dashboard\*\* – KPI cards + trend lines
 
-2\. \*\*Audit & Security Dashboard\*\* – Denied actions, restriction
+2.Audit & Security Dashboard\*\* – Denied actions, restriction
 violations
 
-3\. \*\*Performance & Resource Dashboard\*\* – SGA/PGA usage, query
+3.Performance & Resource Dashboard\*\* – SGA/PGA usage, query
 performance
 
-4\. \*\*NCD Analytics Dashboard\*\* (Bonus) – Weekly averages by NCD
+4. NCD Analytics Dashboard\*\* (Bonus) – Weekly averages by NCD
 type, doctor load, retention trends
 
 This BI implementation turns raw daily readings into actionable clinical
 and public health intelligence, fully leveraging Oracle analytic
 functions (LAG, LEAD, ROW_NUMBER, rolling aggregates) for real-time and
 historical insights.
+
